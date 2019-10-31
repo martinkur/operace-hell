@@ -9,7 +9,7 @@
         "lano",
         "vysílačka",
         "zápisník, tužka",
-        "útočná puška ( AK74S ) nebo PDW ( MP5PDW ) + pistole ( Glock )",
+        "útočná puška ruského typu ( nejlépe AK74S ) a/nebo PDW ( MP5PDW ) + pistole ( Glock )",
         "mačeta"
     ],
     "ammo": "low",
@@ -84,6 +84,7 @@
         "Lekarnicka, obvazy",
         "Bila paska s cervenym krizem na rameni",
         "sestistena hraci kostka"
+        "desinfekce = placatka se slivovicí"
     ],
     "ammo": "medium",
     "trivia": "Jeho oblibenou pisni je Beskyde Beskyde a rad si ji casto pobrukuje.",
@@ -103,7 +104,7 @@
         "Mačeta",
         "půl MRE",
         "Grabpack! Krabička poslední záchrany",
-        "Svíčka, izofolie, provázek, prostředky signalizace, pár cigaret"
+        "Svíčka, izofolie, provázek, prostředky signalizace, krabička cigaret"
     ],
     "ammo": "low",
     "trivia": "až to zkončí zbytek života stráví chováním oveček a koní na farmě",
@@ -120,7 +121,7 @@
         "vysílačka",
         "kompas",
         "maskáče - jiný vzor než 95, taktická vesta",
-        "AK - 47",
+        "útočná puška ruského typu (nejlépe AK - 47)",
         "silná svítilna",
         "píšťalka",
         "az 3ks dýmovnic pěchotní ráže"
@@ -138,6 +139,7 @@
         "muze a nemusi mit pistoli, idealne deringer do podvazku",
         "zapalky nebo zapalovac",
         "svitilna"
+        "placatka s libovolným alkoholem"
     ],
     "ammo": "low",
     "trivia": "pri golfu na jeleni loucce ji major jasin eskortoval do bezpeci",
