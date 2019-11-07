@@ -67,7 +67,7 @@
         "zapalky nebo zapalovac",
         "buzola",
         "lekarnicka, obvazy, gazy, elektrikarska paska",
-        "zapisnik, tuzka"
+        "zapisnik, tuzka",
     ],
     "ammo": "no",
     "trivia": "Proslycha se, ze na operaci Luxor byl vyslan po jistem nezdarem experimentu na svem puvodnim pracovisti.",
@@ -125,7 +125,7 @@
         "vysílačka",
         "kompas",
         "maskáče - jiný vzor než 95, taktická vesta",
-        "AK - 47",
+        " útočná puška ruského typu (nejlépe AK - 47)",
         "silná svítilna",
         "píšťalka",
         "az 3ks dýmovnic pěchotní ráže"
@@ -143,6 +143,7 @@
         "muze a nemusi mit pistoli, idealne deringer do podvazku",
         "zapalky nebo zapalovac",
         "svitilna",
+        "placatka s libovolnym alkoholem",
         "zapisnik a tuzka",
         "volitelne vysilacka"
     ],
